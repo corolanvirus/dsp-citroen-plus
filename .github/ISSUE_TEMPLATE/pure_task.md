@@ -1,6 +1,6 @@
 ---
-name: Template tech (non user issue)
-about: tâche tech
+name: Task
+about: Tâche technique
 labels: Tâche technique
 assignees: sacreedeception
 

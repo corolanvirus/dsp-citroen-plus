@@ -1,7 +1,7 @@
 ---
 name: User story
-about: alimentation du product backlog
-labels: product issues
+about: Alimentation du product backlog
+labels: Product issues
 assignees: sacreedeception
 
 ---
