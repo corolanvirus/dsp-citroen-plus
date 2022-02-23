@@ -1,7 +1,7 @@
 ---
-name: Nouvelle feature
-about: soumettez une idée... user story
-labels: Feature Request
+name: User story
+about: alimentation du product backlog
+labels: product issues
 assignees: sacreedeception
 
 ---
