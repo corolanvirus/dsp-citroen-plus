@@ -1,16 +1,18 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Nouvelle feature
+about: soumettez une idée... user story
 labels: Feature Request
-assignees: vinceingithub
+assignees: sacreedeception
 
 ---
 
-**Describe the addition**
-Describe what you want to happen.
+**Décrivez la feature**
+| userStory  | businessValue | hardNess/height (demi journée/homme) |
+| :---------------|:---------------:| -----:|
+| en tan qu'user dans tel contexte je souhaite ...| S / M / L / XL / XXL | 1 (demi journée) |
 
-**Why do you want this feature?**
-Explain why this feature should be added.
+**Expression du besoin**
+Pourquoi cette feature devrait être ajoutée
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Ressources**
+screens, figma, whimsical.....
